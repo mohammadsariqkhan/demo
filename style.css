@@ -1,4 +1,12 @@
-
+*{
+    margin: 0;
+    padding: 0;
+}
+.maindiv{
+    height: 100vh;
+    width: 100%;
+    background-color: #11101d;
+}
 .sidebar {
     /* position: fixed; */
     left: 0;
